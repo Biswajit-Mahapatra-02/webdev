@@ -1,0 +1,16 @@
+h1{
+    color: rgb(66, 66, 66);
+    text-align: center;
+    font-weight: 400;
+    text-decoration: black underline;
+    letter-spacing: 15px;
+    font-size: 50px;
+    font-family: monospace;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+p{
+    line-height: 2;
+}
